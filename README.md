@@ -1,3 +1,3 @@
 # hello-world
-My Noob repository\n
+My Noob repository
 I have made changes
